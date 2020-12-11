@@ -1,0 +1,25 @@
+{
+  "name": "demoblaze",
+  "version": "1.0.0",
+  "description": "Exercise project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brod/demoblaze.git"
+  },
+  "author": "ruckenbrod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brod/demoblaze/issues"
+  },
+  "homepage": "https://github.com/brod/demoblaze#readme",
+  "dependencies": {
+    "cypress": "^6.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0"
+  }
+}

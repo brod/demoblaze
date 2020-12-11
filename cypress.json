@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://demoblaze.com",
+    "retries": 1,
+    "defaultCommandTimeout": 15000
+}
