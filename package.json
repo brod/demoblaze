@@ -4,7 +4,8 @@
   "description": "Exercise project",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run cypress -- run --config baseUrl=https://demoblaze.com --browser=chrome",
+    "cypress": "cypress"
   },
   "repository": {
     "type": "git",
